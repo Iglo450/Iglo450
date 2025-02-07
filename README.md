@@ -17,7 +17,7 @@
 
 
 # Resume 🙋‍♂️ 
-🎓 Tecnician in **Systems Development**<br>
+🎓 **Systems Development** Technician<br>
 📖 1st Semester of Computer Science<br>
 📚 Coursing other tools and programing languages
 
