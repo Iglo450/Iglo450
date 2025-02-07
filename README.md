@@ -6,7 +6,6 @@
 📖 1° Semestre de Ciências da Computação<br>
 📚 Cursando e aprimorando ferramentas e linguagens
 ---
-<br><br>
 ## 🖥️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,javascript,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,javascript,php,git,vscode)](https://skillicons.dev)
