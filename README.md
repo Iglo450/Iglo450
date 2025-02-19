@@ -26,7 +26,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,mysql,git,vscode)](https://skillicons.dev)
 
 ## ✅ My Projects
-
+<br>
 <a href="https://github.com/Iglo450/TecBlog-Css-Simples">Projeto Css Simples</a>✅
 ## 👨‍💻 Stats
 
