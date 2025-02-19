@@ -27,7 +27,7 @@
 
 ## ✅ My Projects
 <br>
-<a href="https://github.com/Iglo450/TecBlog-Css-Simples">Projeto Css Simples</a>✅
+<a href="https://github.com/Iglo450/TecBlog-Css-Simples">TecBlog Css Simples</a>✅
 
 ## 👨‍💻 Stats
 
