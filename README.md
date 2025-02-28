@@ -5,7 +5,7 @@
  </div>
     <div id="contacts">
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30">
-      <a href="https://www.linkedin.com/in/igor-gonçalves-camillo-932039332/">
+      <a href="https://www.linkedin.com/in/igorgoncalvescamillo/">
         <img src="https://img.shields.io/badge/LindkedIn-blue" width="100">
       </a><br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png" width="30">
