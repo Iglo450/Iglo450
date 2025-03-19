@@ -23,7 +23,7 @@
 
 ## 🖥️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,JAVA,mysql,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,java,mysql,git,vscode)](https://skillicons.dev)
 
 ## ✅ My Projects
 <br>
