@@ -18,7 +18,7 @@
 
 # Resume 🙋‍♂️ 
 🎓 **Systems Development** Technician<br>
-📖 1st Semester of Computer Science<br>
+📖 2nd Semester of Computer Science<br>
 📚 Coursing other tools and programing languages
 
 ## 🖥️ Skills
@@ -28,6 +28,7 @@
 ## ✅ My Projects
 <br>
 <a href="https://github.com/Iglo450/TecBlog-Css-Simples">TecBlog Css Simples</a>✅
+<a href="https://github.com/Iglo450/TED_BRADESCO">TED_BRADESCO</a>✅
 
 ## 👨‍💻 Stats
 
